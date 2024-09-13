@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">   
+    </head>
+
+   <header> 
+        <img src="Logo.png" alt="">
+        <h1>“TOY SHOP.”</h1>
+        <h3>“Diversión siímites para todas las edades.”</h3>
+   </header>
+
+    <hr><body class="cuerpo">
+    
+
+        <h1>menu juguetes</h1>
+        <section class="menus">
+            <img src="juguete1.png" alt="">
+            <br>
+            <a href="Toy story">Toy story</a>
+            
+            <p>Esta figura de acción de Woody a gran escala ofrece a los niños la posibilidad de imitar la diversión y la amistad características de la película Toy Story de Disney y Pixar.</p>
+            PRECIO $19.500
+        
+        </section>
+        
+        <br><hr>
+        <section class="menus">
+            <img src="jufuete2.png" alt=""><br>
+            <a href="Buzz Lightyear ">Buzz Lightyear </a>
+        <p>Recrea las escenas más memorables y las poses características</p>
+            PRECIO $15.500
+        <br><hr>
+        <section class="menus">
+            <img src="jueguete3.png" alt="">
+            <br>
+            <a href="jessie">Jessie</a>
+            <p>Jessie dará grades alegrías a los fans de la vaquera.</p>
+                PRECIO $17.500
+        <br><hr>    
+
+        </section>
+
+        <section class="menus">
+            <section >
+                <img src="juguete4.png" alt="">
+                <br>
+            <a href="Buzz Lightyear">Buzz Lightyear</a>
+            <p>Buzz Lightyear y sus compañeros de tripulación han quedado atrapados en un planeta inexplorado</p>
+            <H5></H5>
+            PRECIO $16.500
+        <br><hr>
+
+        </section>
+
+        <section class="menus">
+            <section >
+                <img src="juguete5.png" alt="">
+                <br>
+            <a href="King Randor">King Randor</a>
+            <p> Este personaje, que se hace pasar por el hermano de King Randor, es en realidad un malvado personaje disfrazado..</p>
+            <br>
+        </section>
+        PRECIO $18.500
+
+
+        <section class="menus">
+            <section >
+                <img src="juguete6.png" alt="">
+                <br>
+            <a href="Skeletor">Skeletor</a>
+            <p>Revolución. La secta de Motherboard ha transformado a Skeletor, el Malvado Señor de la Destrucción, en un esclavo cibernético.</p>
+            <br>
+        </section>
+        PRECIO $18.500
+        <section class="menus">
+            <section >
+                <img src="juguete7.png" alt="">
+                
+            <a href="Grayskull">Grayskull</a>
+            <p>La heroica guardiana del castillo de Grayskull finalmente acepta sus orígenes y perfecciona sus nuevos poderes mágicos.</p>
+            <br>
+        </section>
+        PRECIO $18.500
+        <section class="menus">
+            <section >
+                <img src="juguete8.png" alt="">
+                <br>
+            <a href="He-Man">He-Man</a>
+            <p>Para los fans de siempre y para una nueva generación de niños y niñas a los que les encanta la acción y la aventura.</p>
+            <br>
+        
+
+
+
+
+
+
+        <hr>
+
+
+
+
+
+
+    <footer>
+        <H1></H1> @2024 Tu JUGUE TERIA DE CONFIANZA </H1>
+        <hr>
+
+    </footer>
+        
+       
+
+
+        
+        
+    </body>
