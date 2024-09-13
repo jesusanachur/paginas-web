@@ -1,0 +1,57 @@
+header{
+    background-color: rgba(250, 214, 173, 0.781);
+    text-align: center;
+}
+.cuerpo  {
+    background-color: rgb(91, 98, 167);
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+}
+img {
+
+    border-radius: 50%;
+    width: 150PX;
+    
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.slogan p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.menus {
+    text-align: center;
+    padding: auto;
+    color: rgb(0, 0, 0);
+    
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+footer {
+
+    padding: auto;
+    background-color: rgb(127, 73, 143);
+}
